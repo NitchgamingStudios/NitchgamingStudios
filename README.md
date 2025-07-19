@@ -29,7 +29,7 @@ I'm the lead developer and founder of **Deathrow Gaming**, a high-performance Fi
 
 - 🌍 [Discord](https://discord.gg/z5srErSr9V)
 - 🧠 [GitHub Projects](https://github.com/NitchgamingStudios?tab=repositories)
-- 🎮 Always building something new in FiveM RP space
+- 🎮 Always building something new for Deathrow Gaming
 
 ## 📊 GitHub Stats
 ![Nitch's GitHub stats](https://github-readme-stats-nitchgamingstudios-projects.vercel.app/api?username=NitchgamingStudios&show_icons=true&theme=tokyonight&count_private=true)
