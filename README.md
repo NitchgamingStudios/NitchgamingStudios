@@ -34,7 +34,7 @@ I'm the lead developer and founder of **Deathrow Gaming**, a high-performance Fi
 ## 📊 GitHub Stats
 ![Nitch's GitHub stats](https://github-readme-stats-nitchgamingstudios-projects.vercel.app/api?username=NitchgamingStudios&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats-nitchgamingstudios-projects.vercel.app/api/top-langs/?username=NitchgamingStudios&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats-nitchgamingstudios-projects.vercel.app/api/top-langs/?username=NitchgamingStudios&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
 
 ---
 
