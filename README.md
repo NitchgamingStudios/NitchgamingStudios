@@ -36,6 +36,8 @@ I'm the lead developer and founder of **Deathrow Gaming**, a high-performance Fi
 
 ![Top Langs](https://github-readme-stats-nitchgamingstudios-projects.vercel.app/api/top-langs/?username=NitchgamingStudios&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=NitchgamingStudios&label=Profile%20Views&color=0&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 ---
 
 > _"Deathrow Gaming is more than a server – it’s a vision."_  
